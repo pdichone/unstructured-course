@@ -1,0 +1,18 @@
+
+# ignore the venv directory
+env/
+# ignore the .vscode directory
+.vscode/
+# ignore the .idea directory
+.idea/
+# ignore the .env file
+.env
+.node_modules/
+# ignore the .DS_Store file
+.DS_Store
+# ignore the .pytest_cache directory
+.pytest_cache/
+# ignore .sqlite3 database file
+*.sqlite3
+
+
